@@ -1,0 +1,1 @@
+# javascript exercise-2 todo patika
